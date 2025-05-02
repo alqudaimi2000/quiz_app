@@ -11,11 +11,16 @@ A beautiful and interactive quiz application built with Flutter.
   - Start Quiz button with haptic feedback
 ![image](https://github.com/user-attachments/assets/77755660-2812-491e-9069-62e0d567ca06)
 
+
+
 - **Quiz Questions**
 
   - Multiple choice questions
   - Custom styled answer buttons (80% screen width, semi-transparent)
   - Visual feedback for correct/incorrect answers
+
+
+    
 ![image](https://github.com/user-attachments/assets/14d1ee65-7f5f-4d14-8fdf-1a9797ac1710)
 
 - **Results Summary**
@@ -24,6 +29,8 @@ A beautiful and interactive quiz application built with Flutter.
   - Shows both user's answer and correct answer
   - Takes 60% of screen height for better visibility
   - Semi-transparent purple containers for each question
+ 
+  - 
 ![image](https://github.com/user-attachments/assets/02cc34f4-2c84-453f-852f-c679c62c2205)
 
 ## Project Structure
