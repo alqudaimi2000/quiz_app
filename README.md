@@ -9,6 +9,8 @@ A beautiful and interactive quiz application built with Flutter.
   - Beautiful purple gradient background
   - Welcome message and quiz logo
   - Start Quiz button with haptic feedback
+ 
+  
 ![image](https://github.com/user-attachments/assets/77755660-2812-491e-9069-62e0d567ca06)
 
 
